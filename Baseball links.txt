@@ -1,0 +1,13 @@
+https://library.fangraphs.com/pitching/tera/
+
+https://library.fangraphs.com/
+https://www.baseball-reference.com/
+https://www.fangraphs.com/
+
+http://mlb.mlb.com/stats/sortable.jsp?c_id=mlb#elem=%5Bobject+Object%5D&tab_level=child&click_text=Sortable+Player+hitting&game_type='R'&season=2019&season_type=ANY&league_code='MLB'&sectionType=sp&statType=hitting&page=1&ts=1582558981157&playerType=QUALIFIER&sportCode='mlb'&split=&team_id=&active_sw=&position=&page_type=SortablePlayer&sortOrder='desc'&sortColumn=avg&results=&perPage=50&timeframe=&last_x_days=&extended=0
+
+https://baseballsavant.mlb.com/
+https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=pitcher&year=2019&position=&team=&min=350&sort=3&sortDir=desc
+http://mlb.mlb.com/stats/sortable.jsp#elem=%5Bobject+Object%5D&tab_level=child&click_text=Sortable+Player+pitching&game_type='S'&season=2020&season_type=ANY&league_code='MLB'&sectionType=sp&statType=pitching&page=1&ts=1582559460727
+
+http://m.mlb.com/statcast/leaderboard#exit-velo,r,2019
